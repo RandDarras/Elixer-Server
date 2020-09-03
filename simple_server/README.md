@@ -1,6 +1,6 @@
 # SimpleServer
 
-**Server with a router, Firs to get "hello world" and the Second to get "hello" + {param}**
+**Server with a router, First to get "hello world" and the Second to get "hello" + {param}**
 
 # The files/directories:
 
